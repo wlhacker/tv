@@ -178,11 +178,6 @@ CCTV-17农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/322122576
 佛山三水,http://php.jdshipin.com:8880/fstv.php?id=fsss
 南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
 番禺电视,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
-梅州生活,http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv1.flv
-梅州客家,http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv2.flv
-汕头综合,http://211.97.63.3:801/hls/81/index.m3u8
-汕头经济,http://211.97.63.3:801/hls/82/index.m3u8
-汕头体育,http://211.97.63.3:801/hls/80/index.m3u8
 河源综合,https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 云浮综合,https://livestream.oeeee.com/slive/17806.m3u8
 云浮文旅,https://livestream.oeeee.com/slive/17807.m3u8
